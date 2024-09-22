@@ -100,7 +100,7 @@ Si deseas contribuir a este curso, puedes hacerlo de las siguientes maneras:
 ---
 
 ## Contacto
-Si tienes preguntas o necesitas asistencia, no dudes en contactarme a través de [mi correo electrónico](mailto:tu-email@ejemplo.com) o abrir un issue en el repositorio.
+Si tienes preguntas o necesitas asistencia, no dudes en contactarme a través de [mi correo electrónico](mailto:borjajg02@gmail.com) o abrir un issue en el repositorio.
 
 ---
 
